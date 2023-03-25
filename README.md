@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<h4 align="center">I like study, reading books, cat and anglerfish 😺</h4>
+<h6 align="center">ENFP-A 🫸🫷</h6>
+<h3 align="center" width="100%">
+  
+  See my portfolio at [anandahisanah.github.io](https://anandahisanah.github.io)  🤟
+</h3>
 
 <!--
 **anandahisanah/anandahisanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
