@@ -6,6 +6,10 @@
   See my portfolio at [anandahisanah.github.io](https://anandahisanah.github.io)  🤟
 </h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah"/>
+</div>
+
 <!--
 **anandahisanah/anandahisanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
