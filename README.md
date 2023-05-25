@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah&layout=compact"/>
 </div>
 
 <!--
