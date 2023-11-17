@@ -3,7 +3,7 @@
 <h6 align="center">ENFP-A 🫸🫷</h6>
 <h3 align="center" width="100%">
   
-  See my portfolio at [about.anandahisanah.dev](https://about.anandahisanah.dev)  🤟
+  See my portfolio at anandahisanah.dev](https://anandahisanah.dev)  🤟
 </h3>
 
 <div align="center">
