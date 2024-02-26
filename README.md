@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah&layout=compact&langs_count=20&border_color=ffffff&theme=codeSTACKr" alt="Ananda Nur Hisanah's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr" alt="Ananda Nur Hisanah's Top Languages" />
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=anandahisanah&show_icons=true&hide_rank=false&border_color=ffffff&theme=codeSTACKr" alt="Ananda Nur Hisanah's GitHub Stats" />
