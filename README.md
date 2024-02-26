@@ -1,13 +1,27 @@
 
 <h4 align="center">I like study, reading books, cat and anglerfish 😺</h4>
-<h6 align="center">ENFP-A 🫸🫷</h6>
+<h6 align="center">ENFP-A 🫸🫷 5w4</h6>
 <h3 align="center" width="100%">
   
-  See my portfolio at [anandahisanah.dev](https://anandahisanah.dev)  🤟
+  [anandahisanah.dev](https://anandahisanah.dev)  🤟
 </h3>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=anandahisanah&color=orange">
+    <img src="https://komarev.com/ghpvc/?username=anandahisanah&color=orange" alt="Ananda Nur Hisanah's Profile Views" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandahisanah&layout=compact&langs_count=20&border_color=ffffff&theme=codeSTACKr" alt="Ananda Nur Hisanah's Top Languages" />
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=anandahisanah&show_icons=true&hide_rank=false&border_color=ffffff&theme=codeSTACKr" alt="Ananda Nur Hisanah's GitHub Stats" />
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=anandahisanah&theme=codeSTACKr" alt="Ananda Nur Hisanah's GitHub Streak" />
+    </a>
+  </p>
 </div>
 
 <!--
