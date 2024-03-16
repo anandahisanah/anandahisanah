@@ -1,6 +1,6 @@
 
 <h4 align="center">I like study, reading books, cat and anglerfish 😺</h4>
-<h6 align="center">ENFP-A 🫸🫷 5w4</h6>
+<h6 align="center">ENFP-A/INFP-A 🫸🫷 5w4</h6>
 <h3 align="center" width="100%">
   
   [anandahisanah.dev](https://anandahisanah.dev)  🤟
